@@ -8,7 +8,7 @@ html {
 body {
     font-family: system-ui, -apple-system, sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #D281B5;
     color: #333;
     margin: 0 auto;
     padding: 20px;
@@ -23,12 +23,12 @@ body {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #FAEEFA;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #FAEEFA;
     overflow: auto;
 }
 
@@ -43,13 +43,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#F40097;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #F40097;
     text-decoration: none;
 }
 
